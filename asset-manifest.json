@@ -1,10 +1,18 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/n-nhi/static/css/main.2b8cf751.css",
     "main.js": "/n-nhi/static/js/main.38ef8f5f.js",
     "index.html": "/n-nhi/index.html",
     "main.2b8cf751.css.map": "/n-nhi/static/css/main.2b8cf751.css.map",
     "main.38ef8f5f.js.map": "/n-nhi/static/js/main.38ef8f5f.js.map"
+=======
+    "main.css": "/n-husan/n-nhi/static/css/main.2b8cf751.css",
+    "main.js": "/n-husan/n-nhi/static/js/main.38ef8f5f.js",
+    "index.html": "/n-husan/n-nhi/index.html",
+    "main.2b8cf751.css.map": "/n-husan/n-nhi/static/css/main.2b8cf751.css.map",
+    "main.38ef8f5f.js.map": "/n-husan/n-nhi/static/js/main.38ef8f5f.js.map"
+>>>>>>> 526a5d680655fcceb21cf701338fb14fcc0004d1
   },
   "entrypoints": [
     "static/css/main.2b8cf751.css",
