@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/n-nhi/static/css/main.0b3bae0f.css",
-    "main.js": "/n-nhi/static/js/main.1be57b9d.js",
+    "main.js": "/n-nhi/static/js/main.b0df554b.js",
     "index.html": "/n-nhi/index.html"
   },
   "entrypoints": [
     "static/css/main.0b3bae0f.css",
-    "static/js/main.1be57b9d.js"
+    "static/js/main.b0df554b.js"
   ]
 }
